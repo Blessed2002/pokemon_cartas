@@ -1,0 +1,52 @@
+body{
+background-image: url(./img/D-EkZGmXoAA4MSa.jpg);
+background-size: cover;
+}
+.pikachu{
+    border: 10px solid rgb(214, 214, 23);
+    background-color:rgb(242, 242, 14);
+    border-radius: 14px;
+    width: 310px;
+    float: left;
+    margin: 20px;
+
+}
+.charmender{
+    border: 10px solid rgb(214, 214, 23);
+    background-color:rgba(244, 5, 5, 0.866);
+    border-radius: 14px;
+    width: 310px;
+    float: left;
+    margin: 20px;
+
+}
+.squirtle{
+    border: 10px solid rgb(214, 214, 23);
+    background-color: rgba(0, 0, 227, 0.829);
+    border-radius: 14px;
+    width: 310px;
+    float: left;
+    margin: 20px;
+
+}
+.bulbasaur{
+    border: 10px solid rgb(214, 214, 23);
+    background-color: rgb(70, 166, 70);
+    border-radius: 14px;
+    width: 310px;
+    float: left;
+    margin: 20px;
+
+}
+.imagen {
+    width: 100%;
+    height: 700%;
+    background: url(./img/pokemon-background.png);
+
+}
+
+h1{
+    background: center;
+    color: white;
+    text-align: center;
+}
